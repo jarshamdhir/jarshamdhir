@@ -1,8 +1,8 @@
 Hi there! 👋 I'm a Python developer with a passion for building scalable and efficient applications using the latest technologies. My expertise includes React, JavaScript, Docker, Bash, Linux.
 
 Whether it's building intuitive user interfaces or implementing complex algorithms, I love solving challenging problems and delivering high-quality code. My experience in web development, data analysis, and machine learning enables me to build end-to-end solutions that meet business objectives.
+If you're interested in collaborating on a project or just want to chat about the latest tech trends, feel free to reach out! You can find me on GitHub, LinkedIn. 
 
-If you're interested in collaborating on a project or just want to chat about the latest tech trends, feel free to reach out! You can find me on GitHub, LinkedIn, and 
 =============================
 
 
