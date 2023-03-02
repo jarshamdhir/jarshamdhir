@@ -1,11 +1,10 @@
-Hi 👋 My name is Jarsham Dhir
+Hi there! 👋 I'm a Python developer with a passion for building scalable and efficient applications using the latest technologies. My expertise includes React, JavaScript, Docker, Bash, Linux.
+
+Whether it's building intuitive user interfaces or implementing complex algorithms, I love solving challenging problems and delivering high-quality code. My experience in web development, data analysis, and machine learning enables me to build end-to-end solutions that meet business objectives.
+
+If you're interested in collaborating on a project or just want to chat about the latest tech trends, feel free to reach out! You can find me on GitHub, LinkedIn, and 
 =============================
 
-* 🌍  I'm Computer Science Student at Collège LaSalle
-* 🌱 I’m currently learning JavaScript
-* 🖥️  See my portfolio at [MyPortfolio](http://jarshamdhir.github.io/portfolio/) (Not ready yet 🫣)
-* ✉️  You can contact me at [jarsham5@gmail.com](mailto:jarsham5@gmail.com)
-* 🤝  I'm open to collaborating on Data Science , Web Development
 
 ### Skills
 
