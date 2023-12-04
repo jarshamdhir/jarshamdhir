@@ -9,7 +9,6 @@ I'm a Python developer with a passion for building scalable and efficient applic
 * 🌍  I'm based in Montreal
 * ✉️  You can contact me at [jarsham5@gmail.com](mailto:jarsham5@gmail.com)
 * 🧠  I'm learning TypeScript
-* ⚡  I'm Programmer: A machine that turns coffee into code.
 
 ### Skills
 
